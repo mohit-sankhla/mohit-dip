@@ -136,4 +136,3 @@ html_temp = """
    </div>
    """
 st.markdown(html_temp,unsafe_allow_html=True)
-© 2021 GitHub, Inc.
